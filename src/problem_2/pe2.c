@@ -1,13 +1,18 @@
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-
 /*
  * Program: pe2
  * ------------
  * Calculates the sum of all even 
  * Fibonacci numbers up to a limit
+ * 
+ * Joseph Cauthen
+ * August 30th, 2019
+ * 
  */
+
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
 
 int main(){
 

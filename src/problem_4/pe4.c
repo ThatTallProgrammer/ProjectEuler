@@ -6,6 +6,9 @@
  * palindrome in base 10 and print it 
  * to the console
  * 
+ * Joseph Cauthen
+ * September 2nd, 2019
+ * 
  */ 
 
 #include <stdio.h>

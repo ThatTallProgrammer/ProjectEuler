@@ -5,6 +5,9 @@
  * of 600851475143 and print the 
  * result to the console
  * 
+ * Joseph Cauthen
+ * September 2nd, 2019
+ * 
  */ 
 
 #include <stdio.h>

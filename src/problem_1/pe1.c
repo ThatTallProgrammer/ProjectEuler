@@ -1,12 +1,16 @@
-#include <stdio.h>
-
 /*
  * Program: pe1
  * ------------
- * Calculates teh sum of the 
+ * calculates the sum of the 
  * multiples of 3 or 5 up to 
- * the limit
+ * 1000
+ * 
+ * Joseph Cauthen
+ * August 30, 2019
+ *
  */ 
+
+#include <stdio.h>
 
 int main(){
 
